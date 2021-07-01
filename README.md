@@ -42,7 +42,8 @@ You can reuse a good amount of parts from the Genius:
 **At the moment, the TFT screen is not compatible with Klipper, you won’t be able to use it.**
 
 ## BOM (still not complete)
-See the Switchwire BOM for links to products
+[See the Switchwire BOM for links to products](https://vorondesign.com/sourcing_guide?model=VS)
+
 ### Frame
 * 2020 extrusion 320mm – 1pcs (top extrusion)
 * 2020 extrusion 310mm – 1pcs (bottom extrusion) \
