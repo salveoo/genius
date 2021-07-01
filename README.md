@@ -51,16 +51,22 @@ You can reuse a good amount of parts from the Genius:
 * GT2 belt – 5 meters
 * GT2 20t pulley – 3 pcs
 * F695 Bearing – 20 pcs
-
+### Electronics
 * Raspberry for running klipper
-* 20mm stepper for the extruder (NEMA17 Motor 17HS08-1004S)
-* Om* ron TL-Q5MC2 (if you want to use a metal flexplate. I reused the stock endstop for z)
+* SPDT KW10 Limit Micro Switch (for x-axis)
+* Omron TL-Q5MC2 - NPN Inductive Probe (if you want bed mesh leveling,I reused the stock endstop for z)
+* 20mm NEMA17 for the extruder (NEMA17 Motor 17HS08-1004S)
+### Misc
+* Loctite Blue Threadlocker (or nail polish)
+* Key-Bak (you can use this cheaper alternative (https://it.aliexpress.com/item/1005001273995297.html)
+
+### Cable Management	
 * 24* AWG PTFE
 * 20* AWG PTFE
 * 10* x11 Cable Chain
-* Key-Bak (you can use this cheaper alternative (https://it.aliexpress.com/item/1005001273995297.html)
-* Loctite Blue Threadlocker (or nail polish)
-* Hardware to build the Afterburner (hotend, heater, thermistor…)
-* Micro Switch (for x-axis)
-* M2x10 Self-tapping Screw – 8* pcs
-* M3 Hexnut – 3pcs
+
+### Fasteners
+**Still need to count them**
+
+### Extra
+* hardware for the Afterburner (check sw bom)
