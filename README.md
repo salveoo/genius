@@ -73,3 +73,6 @@ You can reuse a good amount of parts from the Genius:
 
 ### Extra
 * hardware for the Afterburner (check sw bom)
+
+## GCODE buttons mod
+To cover the unused usb port I created a keyboard of 4 buttons that call a gcode macro.
