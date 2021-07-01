@@ -16,10 +16,10 @@ I reused the following parts:
 
 ## Build information
 This mod will shorten the X travel by 10mm because of the narrow vertical extrusions but you will gain 20mm of travel in Z. \
-**The build volume is 220x230x270**
+**The build volume is 220x230x270** \
+Note: _You will need to drill a hole into the metal sheet to pass the afterburner cables._
 
 ## Build overview
-
 _Front and Left_
 <p align="center">
   <img  width="1850" src="https://user-images.githubusercontent.com/44800440/124168000-d94b1400-daa4-11eb-9fbe-f04007028a12.jpg">
@@ -29,3 +29,15 @@ _Back and Right_
 <p align="center">
   <img width="1850" src="https://user-images.githubusercontent.com/44800440/124167592-79546d80-daa4-11eb-8a0e-a14a48bedca4.jpg">
 </p>
+
+## Recycling
+You can reuse a good amount of parts from the Genius:
+* MCU (Mks gen L)
+* PSU
+* Y assembly
+* All the stepper motors except the extruder one
+* 4020 blower
+* 4010 fan
+* 2040 vertical extrusion \
+**At the moment, the TFT screen is not compatible with Klipper, you won’t be able to use it.**
+
