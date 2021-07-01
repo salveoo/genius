@@ -82,4 +82,9 @@ Buttons used: 12x12x4.3 => [aliexpress](https://it.aliexpress.com/item/328075078
   <img  width="1850" src="https://user-images.githubusercontent.com/44800440/124180973-351d9900-dab5-11eb-9749-827404ca9a8c.jpg">
 </p>
 
+Solder one side of the button to a data pin, the other goes to GND. \
+Then close the lid and route the cables through the usb hole.
+<p align="center">
+  <img  width="550" src="https://user-images.githubusercontent.com/44800440/124181505-dc023500-dab5-11eb-80a6-2b119d3cbf13.jpg">
+</p>
 
