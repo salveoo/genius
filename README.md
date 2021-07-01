@@ -66,6 +66,7 @@ You can reuse a good amount of parts from the Genius:
 * 24 AWG PTFE
 * 20 AWG PTFE
 * 10x11 Cable Chain
+* connectors
 
 ### Fasteners
 **Still need to count them**
