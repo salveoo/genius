@@ -88,3 +88,9 @@ Then close the lid and route the cables through the usb hole.
   <img  width="550" src="https://user-images.githubusercontent.com/44800440/124181505-dc023500-dab5-11eb-80a6-2b119d3cbf13.jpg">
 </p>
 
+Product in action
+<p align="center">
+  <img  width=450" src="https://user-images.githubusercontent.com/44800440/124181923-75314b80-dab6-11eb-875b-5967de32c5db.jpg">
+</p>
+
+
