@@ -38,7 +38,7 @@ You can reuse a good amount of parts from the Genius:
 * All the stepper motors except the extruder one
 * 4020 blower
 * 4010 fan
-* 2040 vertical extrusion
+* 2040 vertical extrusions \
 **At the moment, the TFT screen is not compatible with Klipper, you won’t be able to use it.**
 
 ## BOM (still not complete)
