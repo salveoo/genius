@@ -1,2 +1,2 @@
 # Artillery Genius to Switchwire
-Artillery Genius to Voron Switchwire conversion
+This is my journey in converting an Artillery Genius to Switchwire.
