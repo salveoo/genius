@@ -42,6 +42,7 @@ You can reuse a good amount of parts from the Genius:
 **At the moment, the TFT screen is not compatible with Klipper, you won’t be able to use it.**
 
 ## BOM (still not complete)
+See the Switchwire BOM for links to products
 ### Frame
 * 2020 extrusion 320mm – 1pcs (top extrusion)
 * 2020 extrusion 310mm – 1pcs (bottom extrusion) \
@@ -61,9 +62,9 @@ You can reuse a good amount of parts from the Genius:
 * Key-Bak (you can use this cheaper alternative (https://it.aliexpress.com/item/1005001273995297.html)
 
 ### Cable Management	
-* 24* AWG PTFE
-* 20* AWG PTFE
-* 10* x11 Cable Chain
+* 24 AWG PTFE
+* 20 AWG PTFE
+* 10x11 Cable Chain
 
 ### Fasteners
 **Still need to count them**
