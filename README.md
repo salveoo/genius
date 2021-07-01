@@ -7,9 +7,21 @@ This is my journey in converting an Artillery Genius to Switchwire.
   <img width="650" height="650" src="https://user-images.githubusercontent.com/44800440/124162775-21673800-da9f-11eb-9416-9d70eb20ef93.jpg">
 </p>
 
-### This conversion is based on [Gizzle’s Ender 3 conversion](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire "Title")
+## This conversion is based on [Gizzle’s Ender 3 conversion](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire "Title")
 
 I reused the following parts:
 * motor mounts
 * upper blocks assembly
 * Z bearing blocks
+
+## Build overview
+
+Front and Left
+<p align="center">
+  <img width="1450" src="https://user-images.githubusercontent.com/44800440/124167592-79546d80-daa4-11eb-8a0e-a14a48bedca4.jpg">
+</p>
+
+Back and Right
+<p align="center">
+  <img width="1450" src="https://user-images.githubusercontent.com/44800440/124167592-79546d80-daa4-11eb-8a0e-a14a48bedca4.jpg">
+</p>
