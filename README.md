@@ -14,6 +14,10 @@ I reused the following parts:
 * upper blocks assembly
 * Z bearing blocks
 
+## Build information
+This mod will shorten the X travel by 10mm because of the narrow vertical extrusions but you will gain 20mm of travel in Z. \
+**The build volume is 220x230x270**
+
 ## Build overview
 
 _Front and Left_
