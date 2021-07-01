@@ -30,7 +30,7 @@ _Back and Right_
   <img width="1850" src="https://user-images.githubusercontent.com/44800440/124167592-79546d80-daa4-11eb-8a0e-a14a48bedca4.jpg">
 </p>
 
-## Recycling
+## Reuse parts
 You can reuse a good amount of parts from the Genius:
 * MCU (Mks gen L)
 * PSU
@@ -38,6 +38,29 @@ You can reuse a good amount of parts from the Genius:
 * All the stepper motors except the extruder one
 * 4020 blower
 * 4010 fan
-* 2040 vertical extrusion \
+* 2040 vertical extrusion
 **At the moment, the TFT screen is not compatible with Klipper, you won’t be able to use it.**
 
+## BOM (still not complete)
+### Frame
+* 2020 extrusion 320mm – 1pcs (top extrusion)
+* 2020 extrusion 310mm – 1pcs (bottom extrusion) \
+### Motion
+* MGN12H linear rail 330mm – 2pcs (z axis)
+* MGN12H linear rail 270mm – 1* pcs (x axis)
+* GT2 belt – 5 meters
+* GT2 20t pulley – 3 pcs
+* F695 Bearing – 20 pcs
+
+* Raspberry for running klipper
+* 20mm stepper for the extruder (NEMA17 Motor 17HS08-1004S)
+* Om* ron TL-Q5MC2 (if you want to use a metal flexplate. I reused the stock endstop for z)
+* 24* AWG PTFE
+* 20* AWG PTFE
+* 10* x11 Cable Chain
+* Key-Bak (you can use this cheaper alternative (https://it.aliexpress.com/item/1005001273995297.html)
+* Loctite Blue Threadlocker (or nail polish)
+* Hardware to build the Afterburner (hotend, heater, thermistor…)
+* Micro Switch (for x-axis)
+* M2x10 Self-tapping Screw – 8* pcs
+* M3 Hexnut – 3pcs
