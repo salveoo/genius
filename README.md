@@ -16,12 +16,12 @@ I reused the following parts:
 
 ## Build overview
 
-Front and Left
+_Front and Left_
 <p align="center">
-  <img width="1450" src="https://user-images.githubusercontent.com/44800440/124167592-79546d80-daa4-11eb-8a0e-a14a48bedca4.jpg">
+  <img  width="1850" src="https://user-images.githubusercontent.com/44800440/124168000-d94b1400-daa4-11eb-9fbe-f04007028a12.jpg">
 </p>
 
-Back and Right
+_Back and Right_
 <p align="center">
-  <img width="1450" src="https://user-images.githubusercontent.com/44800440/124167592-79546d80-daa4-11eb-8a0e-a14a48bedca4.jpg">
+  <img width="1850" src="https://user-images.githubusercontent.com/44800440/124167592-79546d80-daa4-11eb-8a0e-a14a48bedca4.jpg">
 </p>
