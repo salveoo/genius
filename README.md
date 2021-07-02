@@ -13,6 +13,7 @@ I reused the following parts:
 * motor mounts
 * upper blocks assembly
 * Z bearing blocks
+* keybak mount
 
 ## Build information
 This mod will shorten the X travel by 10mm because of the narrow vertical extrusions but you will gain 20mm of travel in Z. \
