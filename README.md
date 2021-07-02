@@ -50,7 +50,7 @@ You can reuse a good amount of parts from the Genius:
 * 2020 extrusion 310mm – 1pcs (x axis extrusion)
 ### Motion
 * MGN12H linear rail 330mm – 2pcs (z axis)
-* MGN12H linear rail 270mm – 1* pcs (x axis)
+* MGN12H linear rail 270mm – 1pcs (x axis)
 * GT2 belt – 5 meters
 * GT2 20t pulley – 3 pcs
 * F695 Bearing – 20 pcs
