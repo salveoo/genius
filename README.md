@@ -46,7 +46,7 @@ You can reuse a good amount of parts from the Genius:
 
 ### Frame
 * 2020 extrusion 320mm – 1pcs (top extrusion)
-* 2020 extrusion 310mm – 1pcs (bottom extrusion) \
+* 2020 extrusion 310mm – 1pcs (x axis extrusion)
 ### Motion
 * MGN12H linear rail 330mm – 2pcs (z axis)
 * MGN12H linear rail 270mm – 1* pcs (x axis)
