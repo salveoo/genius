@@ -98,5 +98,5 @@ Product in action
 I merged Badnoob's fan cover with Greg's mod. This is only a cosmetic mod, compatible with Greg mod, but with Badnoob's aesthetics.
 
 <p align="center">
-  <img  width="550" src="https://user-images.githubusercontent.com/44800440/124181923-75314b80-dab6-11eb-875b-5967de32c5db.jpg">
+  <img  width="550" src="https://user-images.githubusercontent.com/44800440/124330547-ebed4800-db8d-11eb-8914-7770b904369d.jpg">
 </p>
