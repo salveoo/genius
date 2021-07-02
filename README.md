@@ -95,7 +95,8 @@ Product in action
 </p>
 
 ## bonus mod
-I merged Badnoob's fan cover with Greg's mod. This is only a cosmetic mod, compatible with Greg mod, but with Badnoob's aesthetics.
+I merged [Badnoob's AB-BN](
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN) with [Greg's mod](https://github.com/Greg191134/Voron/tree/master/Afterburner%20Optimisation/5015%20fan%20mod). This is only a cosmetic mod, compatible with Greg mod, but with Badnoob's aesthetics.
 
 <p align="center">
   <img  width="550" src="https://user-images.githubusercontent.com/44800440/124330547-ebed4800-db8d-11eb-8914-7770b904369d.jpg">
