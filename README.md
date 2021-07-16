@@ -103,3 +103,9 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN
 <p align="center">
   <img  width="550" src="https://user-images.githubusercontent.com/44800440/124330547-ebed4800-db8d-11eb-8914-7770b904369d.jpg">
 </p>
+
+## Full metal idlers
+If you want your top idlers to be sturdier you can reuse the old pulley to act as an m5 spacer.
+<p align="center">
+<img  width="550" src="https://user-images.githubusercontent.com/44800440/125933073-3b836bc6-84c8-4e45-a17b-c544d33d3f2e.jpg">
+</p>
