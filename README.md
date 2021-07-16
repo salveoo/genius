@@ -18,7 +18,6 @@ I reused the following parts:
 ## Build information
 This mod will shorten the X travel by 10mm because of the narrow vertical extrusions but you will gain 20mm of travel in Z. \
 **The build volume is 220x230x270** \
-Note: _You will need to drill a hole into the metal sheet to pass the afterburner cables._
 
 ## Build overview
 _Front and Left_
@@ -42,7 +41,7 @@ You can reuse a good amount of parts from the Genius:
 * 2040 vertical extrusions \
 **At the moment, the TFT screen is not compatible with Klipper, you won’t be able to use it.**
 
-## BOM (still not complete)
+## BOM
 [See the Switchwire BOM for links to products](https://vorondesign.com/sourcing_guide?model=VS)
 
 ### Frame
@@ -70,7 +69,10 @@ You can reuse a good amount of parts from the Genius:
 * connectors
 
 ### Fasteners
-**Still need to count them**
+_Make sure you order spare fasteners in case I miscounted them_
+<p align="center">
+<img  width="350" src="https://user-images.githubusercontent.com/44800440/125932065-ffe4fd8a-2f9b-4efc-81a6-900f18e728da.PNG">
+</p>
 
 ### Extra
 * hardware for the Afterburner (check sw bom)
