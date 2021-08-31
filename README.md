@@ -2,15 +2,14 @@
 This is my journey in converting an Artillery Genius to Switchwire. \
 _discord salveo#6988 if you have any question_
 
-<!-- <img src="https://user-images.githubusercontent.com/44800440/124162775-21673800-da9f-11eb-9416-9d70eb20ef93.jpg" width="650" height="650"> -->
-
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/124162775-21673800-da9f-11eb-9416-9d70eb20ef93.jpg">
+  <img width="650" src="images/genius2_page-0001.jpg">
 </p>
 
 ## SW 193 ♥
+
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/44800440/126009785-62310d36-df0a-4d1c-9f16-7272b81530f3.jpg">
+  <img width="450" src="images/vs193.jpg">
 </p>
 
 
@@ -29,12 +28,12 @@ This mod will shorten the X travel by 10mm because of the narrow vertical extrus
 ## Build overview
 _Front and Left_
 <p align="center">
-  <img  width="1850" src="https://user-images.githubusercontent.com/44800440/124168000-d94b1400-daa4-11eb-9fbe-f04007028a12.jpg">
+  <img width="1850" src="images/front.jpg">
 </p>
 
 _Back and Right_
 <p align="center">
-  <img width="1850" src="https://user-images.githubusercontent.com/44800440/124167592-79546d80-daa4-11eb-8a0e-a14a48bedca4.jpg">
+  <img width="1850" src="images/back.jpg">
 </p>
 
 ## Reuse parts
@@ -77,8 +76,9 @@ You can reuse a good amount of parts from the Genius:
 
 ### Fasteners
 _Make sure you order spare fasteners in case I miscounted them_
+
 <p align="center">
-<img  width="350" src="https://user-images.githubusercontent.com/44800440/125932065-ffe4fd8a-2f9b-4efc-81a6-900f18e728da.PNG">
+  <img width="400" src="images/bom.png">
 </p>
 
 ### Extra
@@ -89,30 +89,23 @@ To cover the unused usb port I created a keyboard of 4 buttons that call a gcode
 Buttons used: 12x12x4.3 => [aliexpress](https://it.aliexpress.com/item/32807507828.html)
 
 <p align="center">
-  <img  width="1850" src="https://user-images.githubusercontent.com/44800440/124180973-351d9900-dab5-11eb-9749-827404ca9a8c.jpg">
+  <img width="1850" src="images/buttons1.jpg">
 </p>
 
 Solder one side of the button to a data pin, the other goes to GND. \
 Then close the lid and route the cables through the usb hole.
 <p align="center">
-  <img  width="550" src="https://user-images.githubusercontent.com/44800440/124181505-dc023500-dab5-11eb-80a6-2b119d3cbf13.jpg">
+  <img width="550" src="images/buttons2.jpg">
 </p>
 
 Product in action
 <p align="center">
-  <img  width="550" src="https://user-images.githubusercontent.com/44800440/124181923-75314b80-dab6-11eb-875b-5967de32c5db.jpg">
+  <img width="550" src="images/buttons3.jpg">
 </p>
 
-## bonus mod
-I merged [Badnoob's AB-BN](
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN) with [Greg's mod](https://github.com/Greg191134/Voron/tree/master/Afterburner%20Optimisation/5015%20fan%20mod). This is only a cosmetic mod, compatible with Greg mod, but with Badnoob's aesthetics.
-
-<p align="center">
-  <img  width="550" src="https://user-images.githubusercontent.com/44800440/124330547-ebed4800-db8d-11eb-8914-7770b904369d.jpg">
-</p>
 
 ## Full metal idlers
 If you want your top idlers to be sturdier you can reuse the old pulley to act as an m5 spacer.
 <p align="center">
-<img  width="550" src="https://user-images.githubusercontent.com/44800440/125933073-3b836bc6-84c8-4e45-a17b-c544d33d3f2e.jpg">
+  <img width="550" src="images/idlers.jpg">
 </p>
